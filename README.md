@@ -1,4 +1,6 @@
+## To download the files
 
+git clone https://github.com/arieldenzel12/Food-Resto
 
 ## How to run this application
 
