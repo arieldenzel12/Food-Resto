@@ -1,4 +1,4 @@
-## To download the files
+## To download the files and decompress with rar
 
 git clone https://github.com/arieldenzel12/Food-Resto
 
